@@ -7,13 +7,15 @@ To do's:
 3. Vectoring System
 4. Matrix Sytem
 
-1a. Cartesian
-1b. Spherical
-1c. Polar
+Coordinate System:
+1. Cartesian
+2. Spherical
+3. Polar
 
-2a. Extend 1a
-2b. Extend 1b
-2c. Extend 1c
+Point System:
+1. Extend 1a
+2. Extend 1b
+3. Extend 1c
 
-3N. TBD
-4N. TBD
+3. TBD
+4. TBD
